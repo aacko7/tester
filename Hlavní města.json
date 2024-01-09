@@ -1,0 +1,44 @@
+{
+    "otazka": "Jaké je hlavní město Prahy?",
+    "odpovedA": "Praha",
+    "odpovedB": "Brno",
+    "odpovedC": "Ostrava",
+    "odpovedD": "Varšava",
+    "spravnaOdpoved": "odpovedA"
+}
+
+{
+    "otazka": "Jaké je hlavní město Německa?",
+    "odpovedA": "Kolín na Rýnem",
+    "odpovedB": "Vídeň",
+    "odpovedC": "Berlín",
+    "odpovedD": "Drážďany",
+    "spravnaOdpoved": "odpovedC"
+}
+
+{
+    "otazka": "Jaké je hlavní město USA?",
+    "odpovedA": "New York",
+    "odpovedB": "Washington",
+    "odpovedC": "Washington, D.C.",
+    "odpovedD": "Los Angeles",
+    "spravnaOdpoved": "odpovedC"
+}
+
+{
+    "otazka": "Jaké je hlavní město Slovenska?",
+    "odpovedA": "Poprad",
+    "odpovedB": "Košice",
+    "odpovedC": "Praha",
+    "odpovedD": "Bratislava",
+    "spravnaOdpoved": "odpovedD"
+}
+
+{
+    "otazka": "Jaké je hlavní město Polska?",
+    "odpovedA": "Berlín",
+    "odpovedB": "Varšava",
+    "odpovedC": "Krakov",
+    "odpovedD": "Katovice",
+    "spravnaOdpoved": "odpovedB"
+}
