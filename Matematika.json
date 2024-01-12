@@ -1,0 +1,46 @@
+
+[
+    {
+        "otazka": "Kolik je 2+2?",
+        "odpovedA": "0",
+        "odpovedB": "2",
+        "odpovedC": "1",
+        "odpovedD": "4",
+        "spravnaOdpoved": "odpovedD"
+    },
+    {
+        "otazka": "Kolik je 2*2?",
+        "odpovedA": "4",
+        "odpovedB": "2",
+        "odpovedC": "1",
+        "odpovedD": "0",
+        "spravnaOdpoved": "odpovedA"
+    },
+    
+    {
+        "otazka": "Kolik je 2/2?",
+        "odpovedA": "0",
+        "odpovedB": "2",
+        "odpovedC": "1",
+        "odpovedD": "4",
+        "spravnaOdpoved": "odpovedC"
+    },
+    
+    {
+        "otazka": "Kolik je 2-2?",
+        "odpovedA": "1",
+        "odpovedB": "0",
+        "odpovedC": "2",
+        "odpovedD": "4",
+        "spravnaOdpoved": "odpovedB"
+    },
+    
+    {
+        "otazka": "Kolik je 2^2?",
+        "odpovedA": "4",
+        "odpovedB": "0",
+        "odpovedC": "1",
+        "odpovedD": "2",
+        "spravnaOdpoved": "odpovedA"
+    }
+    ]
