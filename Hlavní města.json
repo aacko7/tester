@@ -1,6 +1,6 @@
 [
 {
-    "otazka": "Jaké je hlavní město Prahy?",
+    "otazka": "Jaké je hlavní město ČR?",
     "odpovedA": "Praha",
     "odpovedB": "Brno",
     "odpovedC": "Ostrava",
@@ -10,7 +10,7 @@
 
 {
     "otazka": "Jaké je hlavní město Německa?",
-    "odpovedA": "Kolín na Rýnem",
+    "odpovedA": "Kolín nad Rýnem",
     "odpovedB": "Vídeň",
     "odpovedC": "Berlín",
     "odpovedD": "Drážďany",
